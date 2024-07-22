@@ -1,6 +1,6 @@
 
 ## Hi there! 👋 
-### I'm `Tomás Santos`, an Informatics Engineering student at 'Universidade de Aveiro'!
+### I'm `Tomás Santos`, an Informatics Engineering student at University of Aveiro!
 
 ## Here are some useful links.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomassf8/)
