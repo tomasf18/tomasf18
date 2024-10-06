@@ -3,7 +3,7 @@
 ### I'm `Tomás Santos`, an Informatics Engineering student at University of Aveiro!
 
 ## Here are some useful links.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tom%C3%A1s-fernandes-977033287/](https://www.instagram.com/tomassf8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tomassf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomassf8/)
 [![College Documents](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://drive.google.com/drive/folders/1iE-8LAau8ikg_M7KbtG0uQk5tfdjuMG-?usp=drive_link)
 
