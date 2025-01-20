@@ -1,6 +1,7 @@
-
 ## Hi there! 👋 
-### I'm `Tomás Santos`, an Informatics Engineering student at University of Aveiro!
+### I'm `Tomás`, a Computer Science student at the University of Aveiro!
+
+I'm passionate about the diverse fields of computer science. Currently, I'm focusing on completing my Bachelor's degree while exploring opportunities to expand my knowledge and skills.
 
 ## Here are some useful links.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomassf)
@@ -10,9 +11,26 @@
 ## Here you can see my GitHub Stats.
 ![Tomas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasf18&show_icons=true&theme=gruvbox)
 
+> These stats highlight my GitHub contributions and the technologies I frequently use.
+
 ## These are the technologies/languages I use the most in my projects.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasf18&hide_progress=false&layout=donut&theme=gruvbox)
 
 ---
 
-Note: These stats only refer to public projects, not counting the private repositories.
+## Areas of Interest
+- **Artificial Intelligence**: Machine learning, neural networks, and automation.
+- **Cybersecurity**: Building secure applications.
+- **Distributed Computing**: Exploring scalable systems for large-scale data processing.
+- **Software Engineering**: Designing and creating systems.
+
+In general, I love turning small ideas into big real-life opportunities!
+
+## Contact Me
+Feel free to reach out for collaboration or just to connect!
+- 📧 Email: [t.santos.f14@gmail.com](mailto:t.santos.f14@gmail.com)
+
+---
+
+**Note**: These stats reflect only my public projects and exclude private repositories, where most of my college work is hosted.
+
