@@ -11,11 +11,10 @@ I'm passionate about the diverse fields of computer science. Currently, I'm focu
 ## Here you can see my GitHub Stats.
 ![Tomas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasf18&show_icons=true&theme=gruvbox)
 
-> These stats highlight my GitHub contributions and the technologies I frequently use.
-
 ## These are the technologies/languages I use the most in my projects.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasf18&hide_progress=false&layout=donut&theme=gruvbox)
 
+> **Note**: These stats reflect only my public projects and exclude private repositories, where most of my college work is hosted.
 ---
 
 ## Areas of Interest
@@ -29,8 +28,3 @@ In general, I love turning small ideas into big real-life opportunities!
 ## Contact Me
 Feel free to reach out for collaboration or just to connect!
 - 📧 Email: [t.santos.f14@gmail.com](mailto:t.santos.f14@gmail.com)
-
----
-
-**Note**: These stats reflect only my public projects and exclude private repositories, where most of my college work is hosted.
-
