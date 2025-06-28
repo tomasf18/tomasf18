@@ -13,7 +13,7 @@ I'm passionate about the diverse fields of computer science. Currently, I'm focu
 
 > **Note**: These stats reflect only my public projects and exclude private repositories, where most of my college work is hosted.
 
-## These are the technologies/languages I use the most in my projects.
+## These are the technologies/languages I use the most in my public projects.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasf18&hide_progress=false&layout=donut&theme=gruvbox)
 
 ---
