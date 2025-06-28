@@ -19,12 +19,12 @@ I'm passionate about the diverse fields of computer science. Currently, I'm focu
 ---
 
 ## Areas of Interest
-- **Artificial Intelligence**: Machine learning, neural networks, and automation.
+- **Artificial Intelligence**: Machine learning, neural networks and automation.
 - **Cybersecurity**: Building secure applications.
 - **Distributed Computing**: Exploring scalable systems for large-scale data processing.
-- **Software Engineering**: Designing and creating systems.
+- **Software & QA Engineering**: Designing and creating systems, while assuring quality at every step.
 
-In general, I love turning small ideas into big real-life opportunities!
+In general, I love turning small ideas into big real-life opportunities, and I’m driven by the opportunity to take on meaningful responsibilities and play a key role in the team's success.
 
 ## Contact Me
 Feel free to reach out for collaboration or just to connect!
