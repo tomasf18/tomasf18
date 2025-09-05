@@ -1,7 +1,6 @@
-## Hi there! 👋 
-### I'm `Tomás`, a Computer Science student at the University of Aveiro!
+## Hi there, I'm `Tomás`! 👋 
 
-I'm passionate about the diverse fields of computer science. Currently, I'm focusing on completing my Bachelor's degree while exploring opportunities to expand my knowledge and skills.
+A **Computer Science and Engineering** student at **Instituto Superior Técnico**, specializing in **Artificial Intelligence** and **Cybersecurity**, with a strong interest in **Distributed Systems**.
 
 ## Useful links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomassf)
@@ -68,14 +67,6 @@ I'm passionate about the diverse fields of computer science. Currently, I'm focu
 </p>
 
 ---
-
-## Areas of Interest
-- **Artificial Intelligence**: Machine learning, neural networks and automation.
-- **Cybersecurity**: Building secure applications.
-- **Distributed Computing**: Exploring scalable systems for large-scale data processing.
-- **Software & QA Engineering**: Designing and creating systems, while assuring quality at every step.
-
-In general, I love turning small ideas into big real-life opportunities, and I’m driven by the opportunity to take on meaningful responsibilities and play a key role in the team's success.
 
 ## Contact Me
 Feel free to reach out for collaboration or just to connect!
