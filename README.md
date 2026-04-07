@@ -1,6 +1,6 @@
 ## Hi there, I'm `Tomás`! 👋 
 
-A **Computer Science and Engineering** student at **Instituto Superior Técnico**, specializing in **Artificial Intelligence** and **Cybersecurity**, with a strong interest in **Distributed Systems**.
+A **Computer Science and Engineering** student at **Instituto Superior Técnico**, specializing in **Artificial Intelligence** and **Distributed Systems**, with a strong interest in **Cybersecurity**.
 
 ## Useful links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomassf)
