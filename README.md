@@ -7,9 +7,7 @@ A **Computer Science and Engineering** student at **Instituto Superior Técnico*
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomassf8/)
 
 ## My GitHub Stats
-![Tomas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasf18&show_icons=true&theme=gruvbox)
-
-> **Note**: These stats reflect only my public projects and exclude private repositories, where most of my college work is hosted.
+[![Tomás's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasf18)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies & Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasf18&hide_progress=false&layout=donut&theme=gruvbox)
