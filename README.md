@@ -1,6 +1,6 @@
 ## Hi there, I'm `Tomás`! 👋 
 
-A MSc student in **Computer Science and Engineering** at **Instituto Superior Técnico**, with a BSc in **Informatics Engineering** from the **University of Aveiro**.
+A MSc student in **Computer Science and Engineering** at **Instituto Superior Técnico**, currently pursuing my Exchange Programme at **TU Delft**, and with a BSc in **Informatics Engineering** from the **University of Aveiro**.
 
 I focus on Artificial Intelligence, Distributed Systems and Cybersecurity, particularly how these areas combine to build intelligent systems that are scalable, fault-tolerant and secure.
 
